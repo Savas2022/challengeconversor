@@ -55,7 +55,7 @@ public class CurrencyConverter {
                 5) Dolar => Peso Colombiano
                 6) Peso Colombiano => Dolar
                 7) Salir
-                    Seleccione una opcion
+                    Seleccione una opcion: 
                 *************************************************************** \n""");
     }
 
